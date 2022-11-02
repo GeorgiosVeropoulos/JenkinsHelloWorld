@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("New Changes");
+        System.out.println("I edited this in GitHub directly");
 
 
 
